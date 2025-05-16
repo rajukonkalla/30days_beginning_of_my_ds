@@ -1,79 +1,78 @@
 # Konakalla Naga Manikanta Raju
 
----
+## About Me
 
-## 🔥 About Me  
-- 👨‍💻 Deep into a 30-day AI & Data Science journey — the kickoff to a 1.5-year deep mastery plan.  
-- 💥 Proud winner of BITS Hackathon 2025 with a smart Retrieval-Augmented Generation (RAG) Document Assistant.  
-- 📍 Based in Vegiwada, Eluru | 🎓 Student at V R Siddhartha Engineering College  
-- 🛠️ Hands-on building AI tools with OpenAI, Hugging Face, LangChain, and Vector Databases.  
-- 🤖 Passionate about Generative AI, Large Language Models, Prompt Engineering, and Deep Learning.  
+I am passionately committed to a career in AI and Data Science, currently engaged in an intensive 30-day sprint designed to build a strong foundation for a 1.5-year journey toward full-stack AI & Data Science expertise. This mission is driven by zero-budget resources, practical tools, and relentless dedication.
 
----
-
-## 🧰 Current Learning Technical Skills  
-- Python (Intermediate)  
-- Basic Flask & OpenCV  
-- Familiar with Streamlit & LangChain concepts  
-- Exploring OpenAI APIs and FAISS for document search  
+- 🥈 Awarded 2nd Prize at BITS Hackathon 2025 for developing a Retrieval-Augmented Generation (RAG) PDF Assistant  
+- 🧠 Experienced in building AI tools leveraging OpenAI, LangChain, Hugging Face, and Vector Databases  
+- 💻 Student at V R Siddhartha Engineering College, Vijayawada  
+- 🏡 Based in Vegiwada near Eluru  
+- 💪 Focused on mastering Large Language Models (LLMs), Prompt Engineering, Neural Networks, and end-to-end AI systems
 
 ---
 
-## 🧩 Certifications & Milestones (Ongoing)  
-- IBM AI Engineering (Coursera)  
-- AWS Machine Learning Foundations (SkillBuilder)  
-- Hugging Face Transformers Course  
-- Google Data Analytics Foundations  
+## 30-Day AI & Data Science Roadmap
+
+| Week | Focus Area                 | Key Outcomes                                                  |
+|-------|---------------------------|---------------------------------------------------------------|
+| 1️⃣    | Environment & Python       | Setup, GitHub workflows, Pandas/NumPy, two mini-projects      |
+| 2️⃣    | Data Science & Machine Learning | Data cleaning, exploratory data analysis, model building, Streamlit dashboards |
+| 3️⃣    | LLMs & RAG Systems         | GPT-4, LangChain, FAISS, Hugging Face, two full-stack AI applications |
+| 4️⃣    | Deployment & Branding      | Application deployment, GitHub polishing, LinkedIn updates, completion of two certifications |
+
+**Daily Tools:**  
+VS Code, Jupyter Pro, Git & GitHub, Streamlit, Gradio, LangChain, FAISS, OpenAI APIs, Pandas, NumPy, Seaborn, scikit-learn
 
 ---
 
-## ✅ Completed Projects  
+## Certifications (In Progress)
 
-| Project                      | Description                                         | Technologies                      |  
-|-----------------------------|-----------------------------------------------------|---------------------------------|  
-| RAG-Based PDF Q&A Assistant  | Intelligent document assistant to query PDFs — built for Hackathon 2025 | LangChain, OpenAI, FAISS, Streamlit |  
-| Biometric Voting System      | Secure face-recognition based voting mechanism      | Python, OpenCV, FaceNet, Flask  |  
-
----
-
-## 🚀 Upcoming Projects  
-
-| Project                      | Objective                                            | Technologies                    |  
-|-----------------------------|-----------------------------------------------------|-------------------------------|  
-| AI Syllabus Doubt Solver     | Real-time doubt solving assistant using RAG & LLMs  | LangChain, FAISS, GPT-4, Streamlit |  
-| AI Code Explainer & Debugger | Auto-analyze, clean, and debug code tool             | LangChain, GPT-4, AST, Python  |  
-| AI Chest X-Ray Classifier    | COVID-19 & pneumonia detection with CNNs             | PyTorch, OpenCV, Hugging Face  |  
-| Fake News Detector           | Real-time AI fact-checker for news articles          | GPT-4, LangChain, News APIs    |  
+| Platform         | Certification                             |
+|------------------|------------------------------------------|
+| Coursera         | IBM AI Engineering Specialization        |
+| AWS SkillBuilder | AWS Machine Learning Foundations          |
+| Hugging Face     | Transformers Course                      |
+| Coursera         | Google Data Analytics Foundations        |
 
 ---
 
-## 📅 30-Day AI & Data Science Roadmap  
+## Completed Projects
 
-| Week | Focus Area                    | Key Deliverables                                   |  
-|-------|------------------------------|--------------------------------------------------|  
-| 1     | Environment Setup & Python    | GitHub portfolio, Python & Pandas mini-projects  |  
-| 2     | Data Science & Machine Learning| Exploratory Data Analysis, ML models, Streamlit dashboards |  
-| 3     | LLMs & RAG Systems            | GPT-4 integration, Hugging Face, AI assistants   |  
-| 4     | Deployment & Showcasing       | Project deployment, LinkedIn updates, certifications |  
-
-> This marks the beginning of a 1.5-year mission to build real expertise and break into AI & Data Science professionally.
+| Project                  | Description                                             | Technology Stack                      |
+|--------------------------|---------------------------------------------------------|-------------------------------------|
+| RAG-Based PDF Assistant  | Query PDFs using GPT-4 combined with FAISS vector search | LangChain, OpenAI, FAISS, Streamlit |
+| Biometric Voting System  | Secure electronic voting system using facial recognition | Python, OpenCV, KNN, Tkinter, pywin32 |
 
 ---
 
-## 🎯 Learning Objectives  
-- Deliver impactful AI & Data Science projects with practical applications  
-- Maintain daily coding discipline and consistent GitHub contributions  
-- Achieve recognized certifications to validate skills  
-- Develop a standout portfolio showcasing AI-driven innovations  
-- Deepen knowledge in LLMs, Prompt Engineering, and Neural Networks  
+## Upcoming Projects
+
+| Project                  | Objective                                               | Technology Stack                    |
+|--------------------------|---------------------------------------------------------|-----------------------------------|
+| AI Syllabus Doubt Solver | Real-time academic doubt resolution with RAG            | GPT-4, FAISS, LangChain           |
+| AI Code Debugger         | Automated code debugging, explanation, and improvement  | LangChain, GPT-4, AST             |
+| Fake News Detector       | Real-time fact-checking for news articles                | GPT-4, LangChain, News APIs       |
+| Portfolio AI Generator   | Intelligent markdown-based resume and portfolio builder | GPT-4, Streamlit                  |
 
 ---
 
-## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/raju-konakalla)  
-- [Kaggle](https://www.kaggle.com/konakallaraju)  
-- Email: raju630441@gmail.com  
+## Mission Objectives
+
+- Deliver production-ready AI tools with real-world impact  
+- Build a compelling GitHub profile that attracts recruiters  
+- Earn certifications valued by top MNCs  
+- Establish a professional presence on LinkedIn and Kaggle  
+- Maintain consistent daily coding, project shipping, and career growth aiming for job offers by 2026  
 
 ---
 
-> No shortcuts. Just relentless passion and progress. This journey’s just starting — buckle up.
+## Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raju-konakalla)  
+- 📊 [Kaggle](https://www.kaggle.com/konakallaraju)  
+- 📧 Email: raju630441@gmail.com  
+
+---
+
+> No fluff. No shortcuts. Just relentless dedication to mastering AI and Data Science.
